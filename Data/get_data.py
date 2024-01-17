@@ -3,7 +3,7 @@ import pandas as pd
 import kaggle
 
 # Define your Kaggle API credentials
-kaggle.api.authenticate(api_key="8c4c8694f41ec9b985ce8d47009b034b", username="elmehdi23")
+kaggle.api.authenticate(api_key="API_KEY", username="USER_NAME")
 
 # Define the competition or dataset name on Kaggle
 dataset_name = "michau96/restaurant-business-rankings-2020/data"
